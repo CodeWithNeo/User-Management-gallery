@@ -19,7 +19,7 @@
 			<li><a href="download.php"><i class="fa fa-download"></i> &nbsp;Download Users-List</a>
 			</li>
 			</ul>
-			<p class="text-center" style="color:#ffffff; margin-top: 100px;">© Ajay</p>
+			<p class="text-center" style="color:#ffffff; margin-top: 100px;">© Stylishmunda</p>
 		</nav>
 
 		
