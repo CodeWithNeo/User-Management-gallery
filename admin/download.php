@@ -2,7 +2,7 @@
 session_start();
 //error_reporting(0);
 session_regenerate_id(true);
-include('includes/config.php');
+include('../includes/config.php');
 
 if(strlen($_SESSION['alogin'])==0)
 	{	
