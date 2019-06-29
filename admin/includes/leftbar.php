@@ -18,6 +18,8 @@
 			</li>
 			<li><a href="download.php"><i class="fa fa-download"></i> &nbsp;Download Users-List</a>
 			</li>
+			<li><a href="download_gallery.php"><i class="fa fa-download"></i> &nbsp;Download Gallery</a>
+			</li>
 			</ul>
 			<p class="text-center" style="color:#ffffff; margin-top: 100px;">© Stylishmunda</p>
 		</nav>
