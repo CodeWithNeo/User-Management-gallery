@@ -23,7 +23,7 @@ if(strlen($_SESSION['alogin'])==0)
 
 <?php 
 $filename="Users list";
-$sql = "SELECT * from Users";
+$sql = "SELECT * from users";
 $query = $dbh -> prepare($sql);
 $query->execute();
 $results=$query->fetchAll(PDO::FETCH_OBJ);
