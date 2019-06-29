@@ -10,8 +10,12 @@
 			</li>
 			<li><a href="messages.php"><i class="fa fa-envelope"></i> &nbsp;Messages</a>
 			</li>
+			<li><a href="add_photo.php"><i class="fa fa-picture-o"></i> &nbsp;Add Photo</a>
+			</li>
+			<li><a href="albums.php"><i class="fa fa-picture-o"></i> &nbsp;Photo Gallery</a>
+			</li>
 			</ul>
-			<p class="text-center" style="color:#ffffff; margin-top: 100px;">© Ajay</p>
+			<p class="text-center" style="color:#ffffff; margin-top: 100px;">© Stylishmunda</p>
 		</nav>
 
 		
