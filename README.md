@@ -9,6 +9,8 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 * Change Password
 * Edit Profile
 * Feedback
+* Add Photo
+* Photo Gallery
 * View Messages
 * Notification
 
@@ -20,12 +22,13 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 * Edit Admin Profile
 * Edit Users Profile
 * Reply Feedback
-* Delete Users
+* Delete Users,Photos
 * Confirmed Users
 * View Feedback
+* View Photo Gallery
 * Notification
-* View Delelted Users
-* Search Users, Feedback Messages
+* View Delelted Users, Photos
+* Search Users, Feedback Messages, Photos
 * Download User Excel File 
 * Sorting 
 
@@ -54,12 +57,12 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 
 ### Author
 
-Ajay Randhawa
+Asif Malik , Ajay Randhawa
 
  ## Donate
 If you appreciate that, please consider donating to the Developer.
 
-[![Donate](https://cdn.pbrd.co/images/HyQFKkP.png)](https://www.paypal.me/ajayrandhawa) 
+[![Donate]BTC 3QswxArBtVAdG1hQxjGTRkC4mJKmtZc9bH
 
 #### Happy Open Source....
 
