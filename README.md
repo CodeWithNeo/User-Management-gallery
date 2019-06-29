@@ -46,14 +46,14 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 
 ### How to Install
 
-* Edit Database (includes/config.php) and (admin/includes/config.php)
+* Edit Database (includes/config.php) 
 
 * Login to Admin
 * Url: http://www.yourdomain.com/admin/
 * Username : admin
 * Password : 963852741
 
-### Database Files are included in Project. (database.sql)
+### Database Files are included in Project. (database.sql,album.sql)
 
 ### Author
 
